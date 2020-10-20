@@ -2694,7 +2694,8 @@
 								"type": "commands",
 								"commands": [
 									"editor.action.addSelectionToNextFindMatch",
-									"workbench.action.findInFiles"
+									"workbench.action.findInFiles",
+									"search.action.focusSearchList"
 								]
 							},
 							{
